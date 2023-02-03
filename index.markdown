@@ -7,3 +7,5 @@ title: James Hoctor.github.io
 ---
 
 Hello there
+
+[my resume](resume.pdf)
