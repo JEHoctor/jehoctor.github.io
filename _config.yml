@@ -29,7 +29,7 @@ domain: jehoctor.github.io
 github_username:  JEHoctor
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: cayman
 plugins:
   - jekyll-feed
 
