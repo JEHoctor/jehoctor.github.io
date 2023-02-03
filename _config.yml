@@ -29,9 +29,10 @@ domain: jehoctor.github.io
 github_username:  JEHoctor
 
 # Build settings
-theme: cayman
+theme: pages-themes/cayman@0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
