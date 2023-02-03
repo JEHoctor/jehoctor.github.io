@@ -9,3 +9,5 @@ title: James Hoctor.github.io
 Hello there
 
 [my resume](resume.pdf)
+
+[my thingiverse](https://www.thingiverse.com/jehoctor/designs)
