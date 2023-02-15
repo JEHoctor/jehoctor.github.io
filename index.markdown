@@ -3,13 +3,15 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: James Hoctor.github.io
+title: James Hoctor
 ---
 
-Hello there
+[GitHub](https://github.com/JEHoctor/)
 
-[my resume](resume.pdf)
+[Resume](https://drive.google.com/file/d/1dtkw-Jbo9DwJQrXAMmUa1jVqRovOlD3d/view?usp=share_link)
 
-[my thingiverse](https://www.thingiverse.com/jehoctor/designs)
+[LinkedIn](https://www.linkedin.com/in/james-hoctor/)
 
-[blog](blog)
+[Thingiverse](https://www.thingiverse.com/jehoctor/designs/)
+
+[Blog](blog)
