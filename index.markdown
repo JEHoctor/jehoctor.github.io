@@ -8,7 +8,7 @@ description: About Me
 
 I am a data scientist. I'm on the job market, so check out my resume and GitHub if you're hiring. My professional
 interests include natural language processing, intelligent document processing, computer vision, and interpretable
-machine learning. Checkout my GitHub and Thingiverse for more on my personal interests and projects.
+machine learning. Check out my GitHub and Thingiverse for more on my personal interests and projects.
 
 [GitHub](https://github.com/JEHoctor/)
 
