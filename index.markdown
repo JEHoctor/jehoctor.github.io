@@ -18,4 +18,4 @@ machine learning. Check out my GitHub and Thingiverse for more on my personal in
 
 [Thingiverse](https://www.thingiverse.com/jehoctor/designs/)
 
-# [Blog](blog)
+<!-- [Blog](blog) -->
