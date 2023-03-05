@@ -6,7 +6,7 @@ layout: default
 description: About Me
 ---
 
-<table>
+<table style="width: 100%">
   <tr>
     <td><a href="https://github.com/JEHoctor/">GitHub</a></td>
     <td><a href="https://drive.google.com/file/d/1dtkw-Jbo9DwJQrXAMmUa1jVqRovOlD3d/view?usp=share_link">Resume</a></td>
