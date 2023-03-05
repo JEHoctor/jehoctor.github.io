@@ -6,6 +6,7 @@ layout: default
 description: About Me
 ---
 
+<!-- This style tag isn't working... I think it's supposed to go in <head>, but Jekyll puts it in <body>. -->
 <style>
   table {
     border: none;
@@ -18,6 +19,7 @@ description: About Me
   }
 </style>
 
+<!-- Maybe this should be a flexbox instead? -->
 <table>
   <tr>
     <td><a href="https://github.com/JEHoctor/">GitHub</a></td>
