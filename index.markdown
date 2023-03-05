@@ -8,11 +8,11 @@ description: About Me
 
 <table>
   <tr>
-    <td>[GitHub](https://github.com/JEHoctor/)</td>
-    <td>[Resume](https://drive.google.com/file/d/1dtkw-Jbo9DwJQrXAMmUa1jVqRovOlD3d/view?usp=share_link)</td>
-    <td>[LinkedIn](https://www.linkedin.com/in/james-hoctor/)</td>
-    <td>[Thingiverse](https://www.thingiverse.com/jehoctor/designs/)</td>
-    <!-- <td>[Blog](blog)</td> -->
+    <td><a href="https://github.com/JEHoctor/">GitHub</a></td>
+    <td><a href="https://drive.google.com/file/d/1dtkw-Jbo9DwJQrXAMmUa1jVqRovOlD3d/view?usp=share_link">Resume</a></td>
+    <td><a href="https://www.linkedin.com/in/james-hoctor/">LinkedIn</a></td>
+    <td><a href="https://www.thingiverse.com/jehoctor/designs/">Thingiverse</a></td>
+    <!-- <td><a href="blog">Blog</a></td> -->
   </tr>
 </table>
 
