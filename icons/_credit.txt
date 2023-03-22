@@ -1,5 +1,2 @@
-I got the GitHub and LinkedIn icons from:
+I got the GitHub, LinkedIn, and PDF icons from:
 https://github.com/mmistakes/jekyll-theme-basically-basic/tree/master/_includes
-
-I based my resume icon on this one:
-https://creazilla.com/nodes/3254676-document-icon
