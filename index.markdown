@@ -24,7 +24,7 @@ description: About Me
   <tr>
     <td><a href="https://github.com/JEHoctor/">GitHub</a></td>
     <td><a href="https://drive.google.com/file/d/1dtkw-Jbo9DwJQrXAMmUa1jVqRovOlD3d/view?usp=share_link">Resume</a></td>
-    <td><a href="https://www.linkedin.com/in/james-hoctor/">LinkedIn</a></td>
+    <td><a href="https://www.linkedin.com/in/james-hoctor/"><img src="icons/icon-linkedin.svg">LinkedIn</a></td>
     <td><a href="https://www.thingiverse.com/jehoctor/designs/">Thingiverse</a></td>
     <!-- <td><a href="blog">Blog</a></td> -->
   </tr>
