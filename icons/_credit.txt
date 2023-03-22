@@ -1,2 +1,5 @@
 I got the GitHub, LinkedIn, and PDF icons from:
 https://github.com/mmistakes/jekyll-theme-basically-basic/tree/master/_includes
+
+I got the 3D printing icon from here:
+https://icon-icons.com/icon/printer-3d-nozzle/135279
