@@ -3,3 +3,6 @@ https://github.com/mmistakes/jekyll-theme-basically-basic/tree/master/_includes
 
 I got the 3D printing icon from here:
 https://icon-icons.com/icon/printer-3d-nozzle/135279
+
+The PyPI logo is just a python logo for recognizability. I got it from wikimedia:
+https://commons.wikimedia.org/wiki/File:Python_icon_%28black_and_white%29.svg
