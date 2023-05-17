@@ -1,0 +1,24 @@
+/* styles for the socials section */
+.socials {
+  padding: 2rem;
+}
+
+.socials > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-gap: 1rem;
+}
+
+.socials > ul > li {
+  border: 3px solid #33ccff;
+  border-radius: .5rem;
+}
+
+.socials > ul > li > img {
+  height: 4rem;
+}
+
+.socials > ul > li > a {
+  padding: .5rem 1rem;
+  margin: .5rem;
+}

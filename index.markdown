@@ -6,30 +6,46 @@ layout: default
 description: About Me
 ---
 
-<!-- This style tag isn't working... I think it's supposed to go in <head>, but Jekyll puts it in <body>. -->
-<style type="text/css">
-  table {
-    border: none;
-    display: inline-table;
-  }
-
-  td {
-    border: none;
-    text-align: center;
-  }
-</style>
-
-<!-- Maybe this should be a flexbox instead? -->
-<table>
-  <tr>
-    <td><a href="https://github.com/JEHoctor/"><img src="icons/icon-github.svg">GitHub</a></td>
-    <td><a href="https://drive.google.com/file/d/1dtkw-Jbo9DwJQrXAMmUa1jVqRovOlD3d/view?usp=share_link"><img src="icons/icon-pdf.svg">Resume</a></td>
-    <td><a href="https://www.linkedin.com/in/james-hoctor/"><img src="icons/icon-linkedin.svg">LinkedIn</a></td>
-    <td><a href="https://www.thingiverse.com/jehoctor/designs/"><img src="icons/printer_d_nozzle_icon_135279.svg">Thingiverse</a></td>
-    <td><a href="https://pypi.org/user/jehoctor/"><img src="icons/Python_icon_(black_and_white).svg">PyPI</a></td>
-    <!-- <td><a href="blog">Blog</a></td> -->
-  </tr>
-</table>
+<section class="socials" id = "socials">
+  <ul>
+    <li>
+      <a href="https://github.com/JEHoctor/">
+        <img src="icons/icon-github.svg">
+        GitHub
+      </a>
+    </li>
+      <a href="https://drive.google.com/file/d/1dtkw-Jbo9DwJQrXAMmUa1jVqRovOlD3d/view?usp=share_link">
+        <img src="icons/icon-pdf.svg">
+        Resume
+      </a>
+    <li>
+      <a href="https://www.linkedin.com/in/james-hoctor/">
+        <img src="icons/icon-linkedin.svg">
+        LinkedIn
+      </a>
+    </li>
+    <li>
+      <a href="https://www.thingiverse.com/jehoctor/designs/">
+        <img src="icons/printer_d_nozzle_icon_135279.svg">
+        Thingiverse
+      </a>
+    </li>
+    <li>
+      <a href="https://pypi.org/user/jehoctor/">
+        <img src="icons/Python_icon_(black_and_white).svg">
+        PyPI
+      </a>
+    </li>
+    <!--
+    <li>
+      <a href="blog">
+        <img src="icons/pick_a_good_icon_for_a_blog.svg">
+        Blog
+      </a>
+    </li>
+    -->
+  </ul>
+</section>
 
 I am a data scientist interested in natural language processing, intelligent document processing, computer vision, and
 interpretable machine learning. I hold an MS in Computer Science from Duke University, and a BS in Mathematics from
