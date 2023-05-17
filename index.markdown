@@ -26,6 +26,7 @@ description: About Me
     <td><a href="https://drive.google.com/file/d/1dtkw-Jbo9DwJQrXAMmUa1jVqRovOlD3d/view?usp=share_link"><img src="icons/icon-pdf.svg">Resume</a></td>
     <td><a href="https://www.linkedin.com/in/james-hoctor/"><img src="icons/icon-linkedin.svg">LinkedIn</a></td>
     <td><a href="https://www.thingiverse.com/jehoctor/designs/"><img src="icons/printer_d_nozzle_icon_135279.svg">Thingiverse</a></td>
+    <td><a href="https://pypi.org/user/jehoctor/"><img src="icons/Python_icon_(black_and_white).svg">PyPI</a></td>
     <!-- <td><a href="blog">Blog</a></td> -->
   </tr>
 </table>
