@@ -7,7 +7,7 @@ description: About Me
 ---
 
 <!-- This style tag isn't working... I think it's supposed to go in <head>, but Jekyll puts it in <body>. -->
-<style>
+<style type="text/css">
   table {
     border: none;
     display: inline-table;
