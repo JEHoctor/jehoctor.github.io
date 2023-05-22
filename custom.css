@@ -11,12 +11,13 @@
 }
 
 .socials > ul > li {
-  border: 3px solid #33ccff;
+  border: 1px solid #33ccff;
   border-radius: .5rem;
 }
 
 .socials > ul > li > img {
-  height: 4rem;
+  height: 3.5rem;
+  border: 1px solid #33ccff;
 }
 
 .socials > ul > li > a {
