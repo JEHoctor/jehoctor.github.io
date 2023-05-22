@@ -13,8 +13,8 @@
 }
 
 .socials > ul > li {
-  border: 1px solid #33ccff;
   border-radius: .5rem;
+  fill: #155799;
   list-style-type: none;
   list-style-position: inside;
   margin: 0;
@@ -23,7 +23,6 @@
 
 .socials > ul > li > img {
   height: 3.5rem;
-  border: 1px solid #33ccff;
 }
 
 .socials > ul > li > a {
