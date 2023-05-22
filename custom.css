@@ -6,15 +6,13 @@
 
 .socials > ul {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(30px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
   grid-gap: 1rem;
   margin: 0;
   padding: 0;
 }
 
 .socials > ul > li {
-  border-radius: .5rem;
-  fill: #155799;
   list-style-type: none;
   list-style-position: inside;
   margin: 0;
