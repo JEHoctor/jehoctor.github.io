@@ -14,10 +14,12 @@ description: About Me
         GitHub
       </a>
     </li>
+    <li>
       <a href="https://drive.google.com/file/d/1dtkw-Jbo9DwJQrXAMmUa1jVqRovOlD3d/view?usp=share_link">
         <img src="icons/icon-pdf.svg">
         Resume
       </a>
+    </li>
     <li>
       <a href="https://www.linkedin.com/in/james-hoctor/">
         <img src="icons/icon-linkedin.svg">
