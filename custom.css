@@ -1,4 +1,5 @@
 /* styles for the socials section */
+/* based on https://css-tricks.com/look-ma-no-media-queries-responsive-layouts-using-css-grid/ */
 .socials {
   padding: 2rem;
 }
