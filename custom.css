@@ -24,3 +24,7 @@
   padding: .5rem 1rem;
   margin: .5rem;
 }
+
+.socials > ul > li > p {
+  margin: auto;
+}

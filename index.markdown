@@ -11,38 +11,38 @@ description: About Me
     <li>
       <a href="https://github.com/JEHoctor/">
         <img src="icons/icon-github.svg">
-        GitHub
+        <p>GitHub</p>
       </a>
     </li>
     <li>
       <a href="https://drive.google.com/file/d/1dtkw-Jbo9DwJQrXAMmUa1jVqRovOlD3d/view?usp=share_link">
         <img src="icons/icon-pdf.svg">
-        Resume
+        <p>Resume</p>
       </a>
     </li>
     <li>
       <a href="https://www.linkedin.com/in/james-hoctor/">
         <img src="icons/icon-linkedin.svg">
-        LinkedIn
+        <p>LinkedIn</p>
       </a>
     </li>
     <li>
       <a href="https://www.thingiverse.com/jehoctor/designs/">
         <img src="icons/printer_d_nozzle_icon_135279.svg">
-        Thingiverse
+        <p>Thingiverse</p>
       </a>
     </li>
     <li>
       <a href="https://pypi.org/user/jehoctor/">
         <img src="icons/Python_icon_(black_and_white).svg">
-        PyPI
+        <p>PyPI</p>
       </a>
     </li>
     <!--
     <li>
       <a href="blog">
         <img src="icons/pick_a_good_icon_for_a_blog.svg">
-        Blog
+        <p>Blog</p>
       </a>
     </li>
     -->
