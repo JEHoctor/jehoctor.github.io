@@ -13,6 +13,7 @@
 .socials > ul > li {
   border: 1px solid #33ccff;
   border-radius: .5rem;
+  list-style-type: none;
 }
 
 .socials > ul > li > img {
