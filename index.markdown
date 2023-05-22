@@ -6,7 +6,7 @@ layout: default
 description: About Me
 ---
 
-<section class="socials" id = "socials">
+<section class="socials">
   <ul>
     <li>
       <a href="https://github.com/JEHoctor/">
