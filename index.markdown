@@ -49,9 +49,9 @@ description: About Me
   </ul>
 </section>
 
-I am a data scientist interested in natural language processing, intelligent document processing, computer vision, and
+I am a Machine Learning Engineer at Cargill. As a machine learning practitioner, my interests include natural language processing, computer vision, and
 interpretable machine learning. I hold an MS in Computer Science from Duke University, and a BS in Mathematics from
-Rensselaer Polytechnic Institute. *I'm on the job market, so check out my resume and GitHub if you're hiring.*
+Rensselaer Polytechnic Institute. <!--*I'm on the job market, so check out my resume and GitHub if you're hiring.*-->
 
 I enjoy competitive coding with my girlfriend, [Alina Jade Barnett](https://alinajadebarnett.github.io/). In 2019, we
 won second prize in the Duke AI for Art Competition. In 2020, we were the 80th team from more than 100,000 global
