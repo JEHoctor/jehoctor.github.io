@@ -38,14 +38,12 @@ description: About Me
         PyPI
       </a>
     </li>
-    <!--
     <li>
-      <a href="blog">
-        <img src="icons/pick_a_good_icon_for_a_blog.svg">
+      <a href="https://james.hoctor.xyz">
+        <img src="icons/Fountain-Pen--Streamline-Emojitwo-Black.svg">
         Blog
       </a>
     </li>
-    -->
   </ul>
 </section>
 
