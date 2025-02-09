@@ -7,5 +7,5 @@ https://icon-icons.com/icon/printer-3d-nozzle/135279
 The PyPI logo is just a python logo for recognizability. I got it from wikimedia:
 https://commons.wikimedia.org/wiki/File:Python_icon_%28black_and_white%29.svg
 
-The pen emoji for thr link to my blog is from here:
+The pen emoji for the link to my blog is from the link below. I modified it by removing the fixed height and width.
 https://www.streamlinehq.com/emojis/download/fountain-pen--31902
