@@ -21,6 +21,7 @@
 
 .socials > ul > li > img {
   height: 3.5rem;
+  fill: #101010;
 }
 
 .socials > ul > li > a {
