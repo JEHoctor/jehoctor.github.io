@@ -34,7 +34,7 @@ description: About Me
     </li>
     <li>
       <a href="https://pypi.org/user/jehoctor/">
-        <img src="icons/Python_icon_(black_and_white).svg">
+        <img src="icons/python-logo-only.svg">
         PyPI
       </a>
     </li>
