@@ -1,6 +1,6 @@
 # Credit for SVG images used
 
-I have modified all of these SVGs in one way or another. The color of each has been lightened from black to a consistent gray that looks better on the blog (currently `#808080`). I have also modified the viewports and scaling so that they have the same height.
+I have modified all of these SVGs in one way or another. The color of each has been lightened from black to a consistent color that (hopefully) looks better on the blog (currently `#285a76`). I have also modified the viewports and scaling so that they have the same height.
 
 I got the GitHub, LinkedIn, and PDF icons from the [Basically Basic Jekyll theme](https://github.com/mmistakes/jekyll-theme-basically-basic/tree/master/_includes).
 
