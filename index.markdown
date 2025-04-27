@@ -9,6 +9,12 @@ description: About Me
 <section class="socials">
   <ul>
     <li>
+      <a href="https://james.hoctor.xyz">
+        <img src="icons/Fountain-Pen--Streamline-Emojitwo-Black.svg">
+        Blog
+      </a>
+    </li>
+    <li>
       <a href="https://github.com/JEHoctor/">
         <img src="icons/icon-github.svg">
         GitHub
@@ -36,12 +42,6 @@ description: About Me
       <a href="https://pypi.org/user/jehoctor/">
         <img src="icons/python-logo-only.svg">
         PyPI
-      </a>
-    </li>
-    <li>
-      <a href="https://james.hoctor.xyz">
-        <img src="icons/Fountain-Pen--Streamline-Emojitwo-Black.svg">
-        Blog
       </a>
     </li>
   </ul>
