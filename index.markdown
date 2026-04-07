@@ -47,6 +47,8 @@ description: About Me
   </ul>
 </section>
 
+⚠️ I don't keep this page updated anymore. See my updated "About Me" page on my new website [here](https://james.hoctor.xyz/pages/about-me.html).⚠️
+
 I am a Senior Machine Learning Engineer at Cargill. As a machine learning practitioner, my interests include natural language processing, computer vision, and
 interpretable machine learning. I hold an MS in Computer Science from Duke University, and a BS in Mathematics from
 Rensselaer Polytechnic Institute. <!--*I'm on the job market, so check out my resume and GitHub if you're hiring.*-->
